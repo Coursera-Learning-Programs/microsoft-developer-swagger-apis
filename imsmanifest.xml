@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_69YQckzHpcN" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Integrating Swagger and Generating
+API Clients</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Integrating_Swagger_and_Generating
+API_Clients_ORG">
+    <organization identifier="Integrating_Swagger_and_Generating
+API_Clients_ORG">
+      <title>Integrating Swagger and Generating
+API Clients</title>
+      <item identifier="Protecting_a_device_with_Malwarebytes_SCO" isvisible="true" identifierref="__69YQckzHpcN_RES">
+        <title>Integrating Swagger and Generating
+API Clients</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__69YQckzHpcN_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6C1O6MoB7Lr.png" />
+      <file href="mobile/6D2hGkZOG0F.png" />
+      <file href="mobile/5sYeoGMUZw3.jpg" />
+      <file href="mobile/5rnWk1SJIPY.jpg" />
+      <file href="mobile/5po6YZpehBQ.jpg" />
+      <file href="mobile/6FJVIXkbkOd.jpg" />
+      <file href="mobile/6kDoXqgNY7L.jpg" />
+      <file href="mobile/5cUv9QkAUkf.jpg" />
+      <file href="mobile/5a6RcuhJS9y.jpg" />
+      <file href="mobile/6aNnePr8nxh.jpg" />
+      <file href="mobile/6clmOkkf0Hz.jpg" />
+      <file href="mobile/6l2i32xcKC2.jpg" />
+      <file href="mobile/5XTD9O2gRLH.jpg" />
+      <file href="mobile/6Vepq3KhCdC.jpg" />
+      <file href="mobile/5igmWqYJ3SY.jpg" />
+      <file href="mobile/6T3eMvc9njV.jpg" />
+      <file href="mobile/6EnnXjKwyuQ.jpg" />
+      <file href="mobile/5vjUJWd3ByS.jpg" />
+      <file href="mobile/5suG5XJCY9D.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5gH84At32BG.js" />
+      <file href="html5/data/js/5gxz5RqhLDu.js" />
+      <file href="html5/data/js/5hbPqbMmjVr.js" />
+      <file href="html5/data/js/5tGlMwcUxDO.js" />
+      <file href="html5/data/js/5tnD2FHYzkG.js" />
+      <file href="html5/data/js/5ueRjncloqc.js" />
+      <file href="html5/data/js/5wc9sSgjRD0.js" />
+      <file href="html5/data/js/5Wky47ottuG.js" />
+      <file href="html5/data/js/60kLO7WQy7a.js" />
+      <file href="html5/data/js/63RVSh0jwOy.js" />
+      <file href="html5/data/js/67fOCX482X8.js" />
+      <file href="html5/data/js/68hCo2n5dO2.js" />
+      <file href="html5/data/js/69j49uMOQd4.js" />
+      <file href="html5/data/js/6aEAfQa4pcw.js" />
+      <file href="html5/data/js/6E4hFoOKX69.js" />
+      <file href="html5/data/js/6Em0iYIHGvw.js" />
+      <file href="html5/data/js/6EYy1GmsADF.js" />
+      <file href="html5/data/js/6FcyBdmA0e8.js" />
+      <file href="html5/data/js/6GXvTotY9Pa.js" />
+      <file href="html5/data/js/6jAmJKt5iT0.js" />
+      <file href="html5/data/js/6jnePCj0x9e.js" />
+      <file href="html5/data/js/6P4JTlz943o.js" />
+      <file href="html5/data/js/6QwPHff27ZW.js" />
+      <file href="html5/data/js/6r9eXrLjp0U.js" />
+      <file href="html5/data/js/6Ue22xWBjtJ.js" />
+      <file href="html5/data/js/6VVVR9mvwMx.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
